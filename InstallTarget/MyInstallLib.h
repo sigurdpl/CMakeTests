@@ -6,9 +6,9 @@
 
 
 
-class MyLib {
+class MyInstallLib {
 public:
-  MyLib() = default;
+  MyInstallLib() = default;
   float multiply_numbers(float number1, float number2);
 };
 
